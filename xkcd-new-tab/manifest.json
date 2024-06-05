@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "xkcd New Tab",
     "description": "See a random xkcd comic when you open a new tab.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
